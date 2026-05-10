@@ -1,3 +1,4 @@
+<img width="1388" height="1133" alt="ihcux-racha-ai-blazor" src="https://github.com/user-attachments/assets/861eeb8e-ca28-4e6f-ae6e-b01009088494" />
 # ihcux-racha-ai-blazor
 
 Nome do grupo: Caua Furst, Joao Vitor Pedrosa, Luiz Guilherme, Silas Caleb
